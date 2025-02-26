@@ -1,8 +1,8 @@
 name: dcmread
 description: "A dcmread Flutter project."
 version: 0.0.1
-homepage: https://github.com/yourusername/my_plugin
-repository: https://github.com/yourusername/my_plugin
+homepage: https://github.com/Senthilvelan/dcmread
+repository: https://github.com/Senthilvelan/dcmread
 
 environment:
   sdk: '>=3.3.2 <4.0.0'
